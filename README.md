@@ -28,7 +28,7 @@
      <a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="vue" width="40" height="40"/> </a>
   <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" alt="vuex" width="40" height="40"/> </a>
      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com/" target="_blank"> <img src="hhttps://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/> </a>
   <a href=" https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="Mongodb" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349404/heroku.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://miro.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="vercel" width="40" height="40"/> </a>
