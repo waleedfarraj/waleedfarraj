@@ -1,5 +1,5 @@
 <header><h1 align="left">Hi , I'm Waleed Farraj 🤝</h1>
-<h3 align="left">Full stack developer underconstruction 💻,With Mechanical Engineering Degree 🔧</h3></header>
+<h3 align="left">Full stack developer  💻,With Mechanical Engineering Degree 🔧</h3></header>
 
 **Glad to see you here!** :star_struck: 
 <body>
