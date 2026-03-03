@@ -2,15 +2,6 @@
 <h3 align="left">Full stack developer  💻  ,
   With Mechanical Engineering Degree 🔧</h3></header>
 
-**Glad to see you here!** :star_struck: 
-<body>
-<p align="center"><a href="https://github.com/waleedfarraj/waleedfarraj/edit/main/README.md" alt="WaleedFarraj"> <img src="https://komarev.com/ghpvc/?username=waleedfarraj&label=Welcome+Viewer&color=red&style=plastic"  /> </a></p>
-
-<br>
-<p align='center'> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=waleedfarraj&show_icons=true&theme=dark"width='500'/>
-</a></p>
-
 <br>
 <br>
 <br>
