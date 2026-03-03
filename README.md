@@ -49,5 +49,5 @@ My focus is long-term maintainability, performance, and product-driven engineeri
 ---
 
 <p align="center">
-Open to senior-level opportunities across Germany & the EU.
+Open to senior-level opportunities across the EU.
 </p>
